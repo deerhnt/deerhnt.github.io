@@ -1,6 +1,6 @@
-title: deer-hunt GitHub Page
-description: deer-hunt GitHub Page.
-url: https://deer-hunt.github.io/
+title: deerhnt GitHub Page
+description: deerhnt GitHub Page.
+url: https://deerhnt.github.io/
 baseurl: ""
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:

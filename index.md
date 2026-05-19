@@ -3,27 +3,27 @@ layout: default
 title: deer-hunt GitHub Page
 ---
 
-# Welcome to deer-hunt GitHub Page
+# Welcome to deerhnt GitHub Page
 
 ## IpSurv
 
 - [Go to PyPI page](https://pypi.org/project/ipsurv/)
-- [Go to Github](https://github.com/deer-hunt/ipsurv)
-- [Documentation site](https://deer-hunt.github.io/ipsurv/)
+- [Go to Github](https://github.com/deerhnt/ipsurv)
+- [Documentation site](https://deerhnt.github.io/ipsurv/)
 
 ## IpServer
 
 - [Go to PyPI page](https://pypi.org/project/ipserver/)
-- [Go to Github](https://github.com/deer-hunt/ipserver)
-- [Documentation site](https://deer-hunt.github.io/ipserver/)
+- [Go to Github](https://github.com/deerhnt/ipserver)
+- [Documentation site](https://deerhnt.github.io/ipserver/)
 
 ## EvArgs
 
 - [Go to PyPI page](https://pypi.org/project/evargs/)
-- [Go to Github](https://github.com/deer-hunt/evargs)
-- [Documentation site](https://deer-hunt.github.io/evargs//)
+- [Go to Github](https://github.com/deerhnt/evargs)
+- [Documentation site](https://deerhnt.github.io/evargs//)
 
 
 ## Contact
 
-[GitHub](https://github.com/deer-hunt)
+[GitHub](https://github.com/deerhnt)
