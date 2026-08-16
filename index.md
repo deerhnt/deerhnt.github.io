@@ -7,7 +7,8 @@ title: deer-hunt GitHub Page
 
 ## Online tools
 
-- [DH Diff](https://deerhnt.github.io/dh-diff/)
+- [DH Diff - Diff Viewer Online Tool](https://deerhnt.github.io/dh-diff/)
+  - [DH Diff Github](https://github.com/deerhnt/dh-diff)
 
 ## IpSurv
 
