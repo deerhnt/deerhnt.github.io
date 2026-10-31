@@ -8,7 +8,10 @@ title: deer-hunt GitHub Page
 ## Online tools
 
 - [DH Diff - Diff Viewer Online Tool](https://deerhnt.github.io/dh-diff/)
-  - [DH Diff Github](https://github.com/deerhnt/dh-diff)
+  - [DH Diff Github](https://github.com/deerhnt/dh-tools/dh-diff)
+
+- [DH Text Converter Online Tool](https://deerhnt.github.io/dh-text-converter/)
+  - [DH Text Converter](https://github.com/deerhnt/dh-tools/dh-text-converter)
 
 ## IpSurv
 
